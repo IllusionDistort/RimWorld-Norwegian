@@ -3,20 +3,20 @@
 
   <Autosaving>Auto-lagerer</Autosaving>
   
-  <GameStartDialog>Tre av dere våkner i cryptosøvn sarkofager til lyden av sirener og ødelagt metall. Dere kommer dere såvidt til nødkapslene før skipet rives til småbiter.\n\nLitt senere, lander dere på en ukjent rimworld.\n\nMens biter av det ødlagte romskipet detter ned rundt dere, lager dere planer for å overleve.</GameStartDialog>
+  <GameStartDialog>Tre av dere våkner i cryptosøvn sarkofager til lyden av sirener og ødelagt metall. Dere kommer dere såvidt til nødkapslene før skipet rives i fillebiter.\n\nLitt senere, lander dere på en ukjent verden.\n\nMens biter av det ødelagte romskipet faller ned rundt dere, lager dere planer for å overleve.</GameStartDialog>
 
   <Colony>Koloni</Colony>
   
   <ChangeLanguageFromMainMenu>Du kan bare skifte språket fra hovedmenyen.</ChangeLanguageFromMainMenu>
 
-  <AndLower>og</AndLower>
+  <AndLower>Og</AndLower>
   <DisabledLower>deaktivert</DisabledLower>
 
   <CloseButton>Lukk</CloseButton>
 
 
   <VersionIndicator>Verisjon {0}</VersionIndicator>
-  <DevelopmentBuildLower>utviklings bygg</DevelopmentBuildLower>
+  <DevelopmentBuildLower>Utviklings Version</DevelopmentBuildLower>
   <CompiledOn>Kompilert {0}</CompiledOn>
 
 	<MeatLabel>{0} kjøtt</MeatLabel>
@@ -26,12 +26,12 @@
 	<CorpseDesc>Dødt lik av en {0}.</CorpseDesc>
 
 
-	<BlueprintLabelExtra> (blåkopi)</BlueprintLabelExtra>
-  <FrameLabelExtra> (bygning)</FrameLabelExtra>
+	<BlueprintLabelExtra>Blåkopi</BlueprintLabelExtra>
+  <FrameLabelExtra>Bygging</FrameLabelExtra>
   
   
   <!-- History events -->
-  <ColonistDied>Kolonist døde</ColonistDied>
+  <ColonistDied>En kolonist døde</ColonistDied>
   
   
   
