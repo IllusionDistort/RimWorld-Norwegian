@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ConceptText_MoveCamera>Move the camera by clicking and dragging the MIDDLE MOUSE BUTTON or with the WASD keys.</ConceptText_MoveCamera>
+  <ConceptText_MoveCamera>Beveg kamera ved å klikke og hold inne den miderste muse-knappen eller bruke WASD på tastaturet ditt.</ConceptText_MoveCamera>
 
-  <ConceptText_RescueColonist>To rescue a wounded colonist, select a healthy colonist and the right-click on the wounded one.</ConceptText_RescueColonist>
+  <ConceptText_RescueColonist>For å redde en skadd kolonist, velg en sunn kolonist og høyre-klikk på den skadde.</ConceptText_RescueColonist>
 
-  <ConceptText_Capture1>An enemy has been incapacitated. You can capture them!</ConceptText_Capture1>
-  <ConceptText_Capture2>To capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use.</ConceptText_Capture2>
+  <ConceptText_Capture1>En fiende er bevistløs. Du kan arrestere dem!</ConceptText_Capture1>
+  <ConceptText_Capture2>For å arrestere, velg en kolonist, høyre-klikk på den bevistløse fienden, og velg kapre.\n\nDu vil trenge en ekstra seng til bruk av fangen din.</ConceptText_Capture2>
 
-  <ConceptText_Draft1>To control colonists directly for combat, Draft them by selecting them and hitting the Draft button.</ConceptText_Draft1>
-  <ConceptText_Draft2>A drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy.</ConceptText_Draft2>
+  <ConceptText_Draft1>For å direkte kontrollere kolonistene dine i kamp, må du velge dem og klikk på rekrutter knappen.</ConceptText_Draft1>
+  <ConceptText_Draft2>En rekruttert kolonist vil kun gjøre det den blir bedt om, og kan kun modta kamp-ordre. De med våpen vil bruke dem når de kan.\n\nIkke la kolonister være rekruter for alttid - de vil sulte og bli misfornøyd.</ConceptText_Draft2>
 
-  <ConceptText_Forbid>Colonists will not interact with items marked FORBIDDEN.\n\nSelect the food and metal near your landing site and press F to UNFORBID them.</ConceptText_Forbid>
+  <ConceptText_Forbid>Kolonister vil ikke operere med ting som er markert som er forbydd.\n\nVelg maten og metallet nær landingsområdet og trykk F for å tillate dem.</ConceptText_Forbid>
 
-  <ConceptText_BillsTab>To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher.</ConceptText_BillsTab>
+  <ConceptText_BillsTab>For å få kolonister til å arbeide ved en arbeidsbenk, velg og åpen Lag menyen. her kan du velge vilke måltider som skal forberedes, hvilke ting som skal produseres og hvilke dyr som skal slaktes.</ConceptText_BillsTab>
 
-  <ConceptText_GrowingFood>To grow food, place GROWING ZONES using the Architect menu.\n\nThey can only be placed on fertile ground.</ConceptText_GrowingFood>
+  <ConceptText_GrowingFood>For å gro maten din må du plassere en plantnings sone via Arkitekt menyen.\n\nDe kan kun plasseres på fruktbar jord.</ConceptText_GrowingFood>
 
-  <ConceptText_BuildOrbitalTradeBeacon>Hint:\n\nTo send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON outdoors and place a stockpile of items near it.</ConceptText_BuildOrbitalTradeBeacon>
+  <ConceptText_BuildOrbitalTradeBeacon>Hint:\n\nfor å sende ting eller sølv til skip i bane må du bygge en orbital handels markør og lage en lagringsplass ved den.</ConceptText_BuildOrbitalTradeBeacon>
 
-  <ConceptText_ReadingAlerts>If you're ever not sure what to do, check the ALERTS at the right of the screen.</ConceptText_ReadingAlerts>
+  <ConceptText_ReadingAlerts>Hvis du er usikker på hva du burde gjøre kan du skjekke VARSELENE på høyre siden av skjermen.</ConceptText_ReadingAlerts>
 
-  <ConceptText_CameraZoom>Zoom in and out with the MOUSEWHEEL or the T and G keys.</ConceptText_CameraZoom>
+  <ConceptText_CameraZoom>Zomm inn eller ut ved bruk av muse-hjullet eller T og G tastene.</ConceptText_CameraZoom>
 
-  <ConceptText_TimeControls>You can speed up, slow down, or stop time using the time controls in the bottom right.</ConceptText_TimeControls>
+  <ConceptText_TimeControls>Du kan spole tiden, raskere , saktere , eller stop diden ved bruk av tids kontrollene nede til høyre.</ConceptText_TimeControls>
 
-  <ConceptText_PrisonerTab>Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou'll need a colonist with the Warden work to take care of the prisoner.</ConceptText_PrisonerTab>
+  <ConceptText_PrisonerTab>Se i en fanges 'Fange' vindu for å sette standaren for hvordan de vil bli behandlet.\n\nYou'll need a colonist with the Warden work to take care of the prisoner.</ConceptText_PrisonerTab>
 
   <ConceptText_Mining>You can designate where to mine using the ARCHITECT MENU.\n\nMining MINERALS yields METAL.\n\nMining ROCK yields nothing.</ConceptText_Mining>
 
